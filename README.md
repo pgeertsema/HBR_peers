@@ -1,4 +1,4 @@
-# HBR_peers
+# AI brings a fresh approach to relative valuation
 This repo contains code to generate the results in the paper "*AI brings a fresh approach to relative valuation*" by Geertsema, Lu and Stouthuysen (2025), forthcoming in the Harvard Business Review.
 
 &nbsp;
