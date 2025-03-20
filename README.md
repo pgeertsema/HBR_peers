@@ -3,8 +3,8 @@ This repo contains code to generate the results in the paper "*AI brings a fresh
 
 The code consists of two files:
 
-1. initial_data_processing.do is a Stata file that handles the basic data preparation and cleaning needed.
-2. create_ml_results.py is a Python file that generates the images and results presented in the paper.
+1. [initial_data_processing.do](initial_data_processing.do) is a Stata file that handles the basic data preparation and cleaning needed.
+2. [create_ml_results.py](create_ml_results.py) is a Python file that generates the images and results presented in the paper.
 
 Both files contain copious comments that serves as documentation of our methodology.
 
