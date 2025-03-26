@@ -12,7 +12,7 @@ The code consists of two files:
 1. [initial_data_processing.do](initial_data_processing.do) is a Stata file that handles the basic data preparation and cleaning needed.
 2. [create_ml_results.py](create_ml_results.py) is a Python file that generates the images and results presented in the paper.
 
-Both files contain copious comments that serves as documentation of our methodology.
+Both files contain copious comments that serve as documentation of our methodology.
 
 For data we rely on the open source data from Chen and Zimmerman (2021)
 [https://www.openassetpricing.com/](https://www.openassetpricing.com/)
