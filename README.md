@@ -3,7 +3,9 @@ This repo contains code to generate the results in the paper "*AI Can Make the R
 
 &nbsp;
 
-![Network](https://github.com/user-attachments/assets/9c782c57-a1c9-4744-bd2d-57602a86e0d1)
+<img src="https://github.com/user-attachments/assets/9c782c57-a1c9-4744-bd2d-57602a86e0d1" alt="Network" width="50%">
+
+*The graphic above has was sourced from the [HBR article](https://hbr.org/2025/04/ai-can-make-the-relative-valuation-process-less-subjective)*
 
 &nbsp;
 
