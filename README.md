@@ -1,9 +1,9 @@
-# AI brings a fresh approach to relative valuation
-This repo contains code to generate the results in the paper "*AI brings a fresh approach to relative valuation*" by Geertsema, Lu and Stouthuysen (2025), forthcoming in the Harvard Business Review.
+# AI Can Make the Relative-Valuation Process Less Subjective
+This repo contains code to generate the results in the paper "*AI Can Make the Relative-Valuation Process Less Subjective*" by Geertsema, Lu and Stouthuysen (2025), published in the Harvard Business Review. The article can be accessed via [this link](https://hbr.org/2025/04/ai-can-make-the-relative-valuation-process-less-subjective).
 
 &nbsp;
 
-![image](https://github.com/user-attachments/assets/a8078ee9-bb5d-4cc4-8522-2f318aecfdb7)
+![Network](https://github.com/user-attachments/assets/9c782c57-a1c9-4744-bd2d-57602a86e0d1)
 
 &nbsp;
 
@@ -19,7 +19,7 @@ For data we rely on the open source data from Chen and Zimmerman (2021)
 see "Open Source Cross-Sectional Asset Pricing" in Critical Finance Review 
 [https://www.nowpublishers.com/article/Details/CFR-0112](https://www.nowpublishers.com/article/Details/CFR-0112)
 
-We also use CRSP data ([https://www.crsp.org/](https://www.crsp.org/)) for market capitalisation and tickers; however, this is not essential. (Market cap is used to select large firms as an initial universe, while tickers are used to create human-readable labels for the firms)
+We also use CRSP data ([https://www.crsp.org/](https://www.crsp.org/)) for market capitalisation and tickers; however, this is not essential. (Market cap is used to select large firms as an initial universe, while tickers are used identify firms)
 
 To calculate peer-weights, we rely on a copy of the AXIL code available at [https://github.com/pgeertsema/AXIL_paper](https://github.com/pgeertsema/AXIL_paper)
 This is explained in more detail in the paper "*Instance-based Explanations for Gradient Boosting Machine Predictions with AXIL Weights*" by Geertsema & Lu (2023): [https://arxiv.org/abs/2301.01864](https://arxiv.org/abs/2301.01864)
